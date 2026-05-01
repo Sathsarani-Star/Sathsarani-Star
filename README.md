@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sathsarani</h1>
+<h1 align="center">Hi 👋, I'm Sathsarani</h1> 
+<div align="center">
+  
+[this is for the picture]: #	
+<div id="header">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h3 align="center">Building my tech journey one project at a time 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathsarani-star&label=Profile%20views&color=0e75b6&style=flat" alt="sathsarani-star" /> </p>
