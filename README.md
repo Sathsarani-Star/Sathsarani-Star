@@ -11,10 +11,97 @@
 
 - 🌱 I’m currently learning **IT Undergraduate (University of Vavuniya)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sathsarani-amarasooriya-115b93401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sathsarani-amarasooriya-115b93401" height="30" width="40" /></a>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hello+👋+I'm+Sathsarani+Amarasooriya;IT+Undergraduate;Web+Developer;UI%2FUX+Designer" />
+</h1>
+
+<h3 align="center">
+BSc (Hons) Information Technology Undergraduate | University of Vavuniya 🇱🇰
+</h3>
+
+---
+
+## 👩‍💻 About Me
+
+Hi, I'm **Sathsarani Amarasooriya**, an Information Technology undergraduate at the **University of Vavuniya**.
+
+I am interested in **Software Development, Web Technologies, Database Systems, and UI/UX Design**.
+
+I enjoy building creative solutions, learning new technologies, and developing projects that solve real-world problems.
+
+---
+
+## 🧠 Areas of Interest
+
+- 🌐 Full Stack Web Development
+- 🎨 UI/UX Design
+- 💻 Software Engineering
+- 🗄️ Database Management Systems
+- 🚀 Technology Innovation
+
+---
+
+## 📚 Currently Learning
+
+- Java Programming
+- Python
+- SQL & Database Design
+- Web Development
+- Software Engineering Concepts
+
+---
+
+## 🛠️ Skills & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,python,mysql,git,github,vscode,figma" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
+
+## 🏆 Achievements
+
+🏅 First Place - UI/UX Design Competition Round 1  
+🏅 First Place - UI/UX Design Competition Round 2  
+🚀 Participated in Hackathons and Technology Events  
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 Student Grade Management System
+Java-based project developed using Object-Oriented Programming concepts.
+
+### 🧠 MindMitra LK
+Mental wellness application UI/UX design project created using Figma.
+
+### 🌐 Personal Portfolio
+My developer portfolio website.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sathsarani-Star&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathsarani-Star&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Sathsarani-Star">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sathsarani-amarasooriya-115b93401">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+</p>
